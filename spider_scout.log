@@ -1,0 +1,438 @@
+2025-11-21 12:20:11 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=2 workers=3
+2025-11-21 12:20:11 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-21 12:20:12 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=122
+2025-11-21 12:20:12 INFO [spider_scout] Downloading: https://www.python.org/events/python-user-group/ (depth 1)
+2025-11-21 12:20:12 INFO [spider_scout] Downloading: https://www.python.org/psf/annual-report/2024/ (depth 1)
+2025-11-21 12:20:12 INFO [spider_scout] Indexed: https://www.python.org/events/python-user-group/ title='Our Events | Python.org' links_found=82
+2025-11-21 12:20:13 INFO [spider_scout] Downloading: https://wiki.python.org/moin/PythonBooks (depth 1)
+2025-11-21 12:20:13 INFO [spider_scout] Indexed: https://www.python.org/psf/annual-report/2024/ title='2024 PSF Annual Impact Report | Python.org' links_found=78
+2025-11-21 12:20:13 INFO [spider_scout] Downloading: https://www.python.org/events/python-events/past/ (depth 1)
+2025-11-21 12:20:14 INFO [spider_scout] Downloading: https://devguide.python.org/ (depth 1)
+2025-11-21 12:20:14 INFO [spider_scout] Indexed: https://www.python.org/events/python-events/past/ title='Our Events | Python.org' links_found=85
+2025-11-21 12:20:15 INFO [spider_scout] Indexed: https://wiki.python.org/moin/PythonBooks title='PythonBooks - Python Wiki' links_found=48
+2025-11-21 12:20:15 INFO [spider_scout] Indexed: https://devguide.python.org/ title='Python Developer’s Guide' links_found=147
+2025-11-21 12:20:15 INFO [spider_scout] Downloading: https://www.python.org/downloads/macos/ (depth 1)
+2025-11-21 12:20:15 INFO [spider_scout] Indexed: https://www.python.org/downloads/macos/ title='Python Releases for macOS | Python.org' links_found=832
+2025-11-21 12:20:15 INFO [spider_scout] Reached max_pages limit
+2025-11-21 12:20:16 INFO [spider_scout] Downloading: https://status.python.org/ (depth 1)
+2025-11-21 12:20:16 INFO [spider_scout] Downloading: http://www.wxpython.org/ (depth 1)
+2025-11-21 12:20:17 INFO [spider_scout] Indexed: https://status.python.org/ title='Python Infrastructure Status' links_found=16
+2025-11-21 12:20:17 INFO [spider_scout] Indexed: http://www.wxpython.org/ title='Welcome to wxPython! | wxPython' links_found=48
+2025-11-21 12:20:17 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-21 12:21:06 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=3 workers=3
+2025-11-21 12:21:06 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-21 12:21:07 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=122
+2025-11-21 12:21:07 INFO [spider_scout] Downloading: https://www.python.org/psf/ (depth 1)
+2025-11-21 12:21:07 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/business/ (depth 1)
+2025-11-21 12:21:07 INFO [spider_scout] Indexed: https://www.python.org/psf/ title='Python Software Foundation' links_found=118
+2025-11-21 12:21:08 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/business/ title='Business | Our Success Stories | Python.org' links_found=92
+2025-11-21 12:21:09 INFO [spider_scout] Downloading: https://docs.python.org (depth 1)
+2025-11-21 12:21:09 INFO [spider_scout] Downloading: http://www.riverbankcomputing.co.uk/software/pyqt/intro (depth 1)
+2025-11-21 12:21:10 INFO [spider_scout] Downloading: https://kivy.org/ (depth 1)
+2025-11-21 12:21:11 INFO [spider_scout] Indexed: http://www.riverbankcomputing.co.uk/software/pyqt/intro title='Riverbank Computing | Introduction' links_found=62
+2025-11-21 12:21:11 INFO [spider_scout] Downloading: https://www.python.org/downloads/ (depth 1)
+2025-11-21 12:21:11 INFO [spider_scout] Indexed: https://www.python.org/downloads/ title='Download Python | Python.org' links_found=541
+2025-11-21 12:21:11 INFO [spider_scout] Downloading: https://www.python.org/downloads/android/ (depth 1)
+2025-11-21 12:21:11 INFO [spider_scout] Indexed: https://kivy.org/ title='Kivy: Cross-platform Python Framework for GUI apps Development' links_found=20
+2025-11-21 12:21:11 INFO [spider_scout] Downloading: https://www.python.org/download/other/ (depth 1)
+2025-11-21 12:21:12 INFO [spider_scout] Indexed: https://www.python.org/downloads/android/ title='Python Releases for Android | Python.org' links_found=91
+2025-11-21 12:21:12 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/software-development/ (depth 1)
+2025-11-21 12:21:13 INFO [spider_scout] Indexed: https://www.python.org/download/other/ title='Download Python for other platforms | Python.org' links_found=92
+2025-11-21 12:21:13 INFO [spider_scout] Downloading: https://www.python.org/community/diversity/ (depth 1)
+2025-11-21 12:21:14 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/software-development/ title='Software Development | Our Success Stories | Python.org' links_found=99
+2025-11-21 12:21:15 INFO [spider_scout] Indexed: https://www.python.org/community/diversity/ title='Diversity | Python.org' links_found=76
+2025-11-21 12:21:15 INFO [spider_scout] Downloading: https://wiki.qt.io/PySide (depth 1)
+2025-11-21 12:21:16 INFO [spider_scout] Downloading: http://www.ansible.com (depth 1)
+2025-11-21 12:21:16 INFO [spider_scout] Indexed: https://wiki.qt.io/PySide title='Qt for Python - Qt Wiki' links_found=62
+2025-11-21 12:21:16 INFO [spider_scout] Indexed: http://www.ansible.com title='Ansible Collaborative' links_found=41
+2025-11-21 12:21:16 INFO [spider_scout] Downloading: https://docs.python.org/3/license.html (depth 1)
+2025-11-21 12:21:17 INFO [spider_scout] Downloading: https://mail.python.org/mailman/listinfo/python-dev (depth 1)
+2025-11-21 12:21:19 INFO [spider_scout] Indexed: https://mail.python.org/mailman/listinfo/python-dev title='Mailman 3 \nInfo | python-dev@python.org - python.org' links_found=11
+2025-11-21 12:21:19 INFO [spider_scout] Downloading: http://pandas.pydata.org/ (depth 1)
+2025-11-21 12:21:19 WARNING [spider_scout] Failed to download: https://docs.python.org
+2025-11-21 12:21:19 INFO [spider_scout] Downloading: https://www.python.org/community/awards (depth 1)
+2025-11-21 12:21:19 INFO [spider_scout] Indexed: https://www.python.org/community/awards title='Python Community Awards | Python Software Foundation' links_found=106
+2025-11-21 12:21:19 INFO [spider_scout] Indexed: http://pandas.pydata.org/ title='pandas - Python Data Analysis Library' links_found=53
+2025-11-21 12:21:19 INFO [spider_scout] Downloading: https://www.python.org/psf/conduct/ (depth 1)
+2025-11-21 12:21:20 INFO [spider_scout] Downloading: https://wiki.python.org/moin/PythonEventsCalendar (depth 1)
+2025-11-21 12:21:21 INFO [spider_scout] Indexed: https://www.python.org/psf/conduct/ title='Python Software Foundation Code of Conduct - Python Software Foundation Policies' links_found=44
+2025-11-21 12:21:21 INFO [spider_scout] Downloading: https://www.python.org/dev/security/ (depth 1)
+2025-11-21 12:21:22 INFO [spider_scout] Indexed: https://www.python.org/dev/security/ title='Python Security | Python.org' links_found=82
+2025-11-21 12:21:22 INFO [spider_scout] Downloading: https://www.python.org/success-stories/ (depth 1)
+2025-11-21 12:21:22 INFO [spider_scout] Indexed: https://wiki.python.org/moin/PythonEventsCalendar title='PythonEventsCalendar - Python Wiki' links_found=39
+2025-11-21 12:21:22 INFO [spider_scout] Reached max_pages limit
+2025-11-21 12:21:22 INFO [spider_scout] Indexed: https://www.python.org/success-stories/ title='Our Success Stories | Python.org' links_found=104
+2025-11-21 12:21:23 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-21 12:23:32 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=3 workers=3
+2025-11-21 12:23:32 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-21 12:23:33 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=122
+2025-11-21 12:23:33 INFO [spider_scout] Downloading: https://www.python.org/about/help/ (depth 1)
+2025-11-21 12:23:33 INFO [spider_scout] Downloading: https://devguide.python.org/ (depth 1)
+2025-11-21 12:23:33 INFO [spider_scout] Indexed: https://www.python.org/about/help/ title='Help | Python.org' links_found=90
+2025-11-21 12:23:33 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/scientific/ (depth 1)
+2025-11-21 12:23:34 INFO [spider_scout] Indexed: https://devguide.python.org/ title='Python Developer’s Guide' links_found=147
+2025-11-21 12:23:34 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/scientific/ title='Scientific | Our Success Stories | Python.org' links_found=82
+2025-11-21 12:23:34 INFO [spider_scout] Downloading: http://pandas.pydata.org/ (depth 1)
+2025-11-21 12:23:35 INFO [spider_scout] Indexed: http://pandas.pydata.org/ title='pandas - Python Data Analysis Library' links_found=53
+2025-11-21 12:23:35 INFO [spider_scout] Downloading: https://www.python.org/blogs/ (depth 1)
+2025-11-21 12:23:35 INFO [spider_scout] Indexed: https://www.python.org/blogs/ title='Our Blogs | Python.org' links_found=85
+2025-11-21 12:23:35 INFO [spider_scout] Downloading: https://www.python.org/dev/security/ (depth 1)
+2025-11-21 12:23:36 INFO [spider_scout] Indexed: https://www.python.org/dev/security/ title='Python Security | Python.org' links_found=82
+2025-11-21 12:23:36 INFO [spider_scout] Downloading: https://www.python.org/events/python-events/2032/ (depth 1)
+2025-11-21 12:23:38 INFO [spider_scout] Indexed: https://www.python.org/events/python-events/2032/ title='PyCascades 2026 | Python.org' links_found=80
+2025-11-21 12:23:38 INFO [spider_scout] Downloading: https://www.python.org/psf/membership/ (depth 1)
+2025-11-21 12:23:38 INFO [spider_scout] Downloading: https://python-docs-translations.github.io/dashboard/ (depth 1)
+2025-11-21 12:23:39 INFO [spider_scout] Indexed: https://www.python.org/psf/membership/ title='Become a Member of the PSF | Python Software Foundation' links_found=110
+2025-11-21 12:23:39 INFO [spider_scout] Downloading: https://www.python.org/psf/donations/ (depth 1)
+2025-11-21 12:23:39 INFO [spider_scout] Downloading: https://saltproject.io (depth 1)
+2025-11-21 12:23:40 INFO [spider_scout] Indexed: https://www.python.org/psf/donations/ title='Support the PSF with a Donation or by becoming a Supporting Member! | Python Software Foundation' links_found=111
+2025-11-21 12:23:40 INFO [spider_scout] Downloading: https://www.python.org/doc/essays/ (depth 1)
+2025-11-21 12:23:40 INFO [spider_scout] Indexed: https://www.python.org/doc/essays/ title='Python Documentation Index | Python.org' links_found=101
+2025-11-21 12:23:40 INFO [spider_scout] Downloading: https://www.python.org/psf/annual-report/2024/ (depth 1)
+2025-11-21 12:23:41 INFO [spider_scout] Indexed: https://www.python.org/psf/annual-report/2024/ title='2024 PSF Annual Impact Report | Python.org' links_found=78
+2025-11-21 12:23:41 INFO [spider_scout] Downloading: https://www.python.org/community/ (depth 1)
+2025-11-21 12:23:42 INFO [spider_scout] Indexed: https://www.python.org/community/ title='Our Community | Python.org' links_found=86
+2025-11-21 12:23:42 INFO [spider_scout] Downloading: https://www.python.org/success-stories/python-on-arm-2025-update/ (depth 1)
+2025-11-21 12:23:44 INFO [spider_scout] Indexed: https://www.python.org/success-stories/python-on-arm-2025-update/ title='Python on Arm: 2025 Update | Our Success Stories | Python.org' links_found=98
+2025-11-21 12:23:44 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/business/ (depth 1)
+2025-11-21 12:23:44 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/business/ title='Business | Our Success Stories | Python.org' links_found=92
+2025-11-21 12:23:44 INFO [spider_scout] Downloading: https://www.python.org/events/python-user-group/2103/ (depth 1)
+2025-11-21 12:23:45 INFO [spider_scout] Indexed: https://www.python.org/events/python-user-group/2103/ title='Python Meeting Düsseldorf | Python.org' links_found=106
+2025-11-21 12:23:45 INFO [spider_scout] Downloading: https://www.python.org/downloads/windows/ (depth 1)
+2025-11-21 12:23:47 INFO [spider_scout] Indexed: https://www.python.org/downloads/windows/ title='Python Releases for Windows | Python.org' links_found=2316
+2025-11-21 12:23:47 INFO [spider_scout] Reached max_pages limit
+2025-11-21 12:23:49 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-21 23:07:59 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=3 workers=3
+2025-11-21 23:07:59 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-21 23:08:00 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=122
+2025-11-21 23:08:01 INFO [spider_scout] Downloading: https://wiki.qt.io/PySide (depth 1)
+2025-11-21 23:08:02 INFO [spider_scout] Indexed: https://wiki.qt.io/PySide title='Qt for Python - Qt Wiki' links_found=62
+2025-11-21 23:08:04 INFO [spider_scout] Downloading: http://flask.pocoo.org/ (depth 1)
+2025-11-21 23:08:05 INFO [spider_scout] Indexed: http://flask.pocoo.org/ title='Welcome to Flask — Flask Documentation (3.1.x)' links_found=76
+2025-11-21 23:08:05 INFO [spider_scout] Downloading: https://www.python.org/events/python-events/2121/ (depth 1)
+2025-11-21 23:08:06 INFO [spider_scout] Indexed: https://www.python.org/events/python-events/2121/ title='PyCon Namibia 2026 | Python.org' links_found=85
+2025-11-21 23:08:06 INFO [spider_scout] Downloading: https://www.python.org/community/irc/ (depth 1)
+2025-11-21 23:08:07 INFO [spider_scout] Indexed: https://www.python.org/community/irc/ title='Internet Relay Chat | Python.org' links_found=78
+2025-11-21 23:08:07 INFO [spider_scout] Downloading: https://www.python.org/events/python-user-group/2103/ (depth 1)
+2025-11-21 23:08:08 INFO [spider_scout] Indexed: https://www.python.org/events/python-user-group/2103/ title='Python Meeting Düsseldorf | Python.org' links_found=106
+2025-11-21 23:08:08 INFO [spider_scout] Downloading: https://docs.python.org/3/license.html (depth 1)
+2025-11-21 23:08:09 INFO [spider_scout] Indexed: https://docs.python.org/3/license.html title='History and License — Python 3.14.0 documentation' links_found=40
+2025-11-21 23:08:10 INFO [spider_scout] Downloading: https://devguide.python.org/ (depth 1)
+2025-11-21 23:08:10 INFO [spider_scout] Indexed: https://devguide.python.org/ title='Python Developer’s Guide' links_found=147
+2025-11-21 23:08:10 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/government/ (depth 1)
+2025-11-21 23:08:11 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/government/ title='Government | Our Success Stories | Python.org' links_found=80
+2025-11-21 23:08:11 INFO [spider_scout] Downloading: https://www.python.org/psf/community-stories/ (depth 1)
+2025-11-21 23:08:12 INFO [spider_scout] Indexed: https://www.python.org/psf/community-stories/ title='Community Stories | Python Software Foundation' links_found=105
+2025-11-21 23:08:14 INFO [spider_scout] Downloading: http://www.web2py.com/ (depth 1)
+2025-11-21 23:08:16 INFO [spider_scout] Indexed: http://www.web2py.com/ title='' links_found=30
+2025-11-21 23:08:16 INFO [spider_scout] Downloading: https://www.python.org/downloads/macos/ (depth 1)
+2025-11-21 23:08:16 INFO [spider_scout] Indexed: https://www.python.org/downloads/macos/ title='Python Releases for macOS | Python.org' links_found=832
+2025-11-21 23:08:16 INFO [spider_scout] Reached max_pages limit
+2025-11-21 23:08:16 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-24 08:43:37 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=3 workers=2
+2025-11-24 08:43:37 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-24 08:43:44 WARNING [spider_scout] Failed to download: https://www.python.org
+2025-11-24 08:43:46 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-24 08:44:27 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=3 workers=2
+2025-11-24 08:44:30 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-24 08:44:31 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=123
+2025-11-24 08:44:32 INFO [spider_scout] Downloading: https://dearpygui.readthedocs.io/en/latest/ (depth 1)
+2025-11-24 08:44:34 INFO [spider_scout] Indexed: https://dearpygui.readthedocs.io/en/latest/ title='Dear PyGui’s Documentation — Dear PyGui  documentation' links_found=43
+2025-11-24 08:44:34 INFO [spider_scout] Downloading: https://www.python.org/community/sigs/ (depth 1)
+2025-11-24 08:44:35 INFO [spider_scout] Indexed: https://www.python.org/community/sigs/ title='Python Special Interest Groups | Python.org' links_found=134
+2025-11-24 08:44:37 INFO [spider_scout] Downloading: https://docs.ansible.com/ (depth 1)
+2025-11-24 08:44:39 INFO [spider_scout] Indexed: https://docs.ansible.com/ title='Ansible Community | Ansible documentation' links_found=32
+2025-11-24 08:44:39 INFO [spider_scout] Downloading: https://www.python.org/about/apps (depth 1)
+2025-11-24 08:44:41 INFO [spider_scout] Indexed: https://www.python.org/about/apps title='Applications for Python | Python.org' links_found=119
+2025-11-24 08:44:43 INFO [spider_scout] Downloading: https://wiki.python.org/moin/PythonEventsCalendar (depth 1)
+2025-11-24 08:44:45 INFO [spider_scout] Indexed: https://wiki.python.org/moin/PythonEventsCalendar title='PythonEventsCalendar - Python Wiki' links_found=39
+2025-11-24 08:44:45 INFO [spider_scout] Downloading: https://wiki.python.org/moin/ (depth 1)
+2025-11-24 08:44:45 INFO [spider_scout] Indexed: https://wiki.python.org/moin/ title='FrontPage - Python Wiki' links_found=56
+2025-11-24 08:44:47 INFO [spider_scout] Downloading: https://trac.edgewall.org/ (depth 1)
+2025-11-24 08:44:48 INFO [spider_scout] Indexed: https://trac.edgewall.org/ title='The Trac Project' links_found=52
+2025-11-24 08:44:48 INFO [spider_scout] Downloading: https://wiki.python.org/moin/BeginnersGuide (depth 1)
+2025-11-24 08:44:49 INFO [spider_scout] Indexed: https://wiki.python.org/moin/BeginnersGuide title='BeginnersGuide - Python Wiki' links_found=89
+2025-11-24 08:44:49 INFO [spider_scout] Downloading: https://www.python.org/about/gettingstarted/ (depth 1)
+2025-11-24 08:44:49 INFO [spider_scout] Indexed: https://www.python.org/about/gettingstarted/ title='Python For Beginners | Python.org' links_found=92
+2025-11-24 08:44:49 INFO [spider_scout] Downloading: https://www.python.org/doc/av (depth 1)
+2025-11-24 08:44:52 INFO [spider_scout] Indexed: https://www.python.org/doc/av title='Audio/Video Instructional Materials for Python | Python.org' links_found=106
+2025-11-24 08:44:54 INFO [spider_scout] Downloading: http://brochure.getpython.info/ (depth 1)
+2025-11-24 08:44:56 INFO [spider_scout] Indexed: http://brochure.getpython.info/ title='Get the Python Brochure Vol.1 as download! —' links_found=32
+2025-11-24 08:44:56 INFO [spider_scout] Downloading: https://www.python.org/events/python-user-group/past/ (depth 1)
+2025-11-24 08:44:58 INFO [spider_scout] Indexed: https://www.python.org/events/python-user-group/past/ title='Our Events | Python.org' links_found=85
+2025-11-24 08:45:01 INFO [spider_scout] Downloading: https://trypyramid.com/ (depth 1)
+2025-11-24 08:45:03 INFO [spider_scout] Indexed: https://trypyramid.com/ title='Welcome to Pyramid, a Python Web Framework' links_found=24
+2025-11-24 08:45:03 INFO [spider_scout] Downloading: https://www.python.org/events/python-events/2121/ (depth 1)
+2025-11-24 08:45:04 INFO [spider_scout] Indexed: https://www.python.org/events/python-events/2121/ title='PyCon Namibia 2026 | Python.org' links_found=85
+2025-11-24 08:45:07 INFO [spider_scout] Downloading: https://jobs.python.org (depth 1)
+2025-11-24 08:45:08 INFO [spider_scout] Indexed: https://jobs.python.org title='Python Job Board | Python.org' links_found=154
+2025-11-24 08:45:11 INFO [spider_scout] Downloading: https://pyfound.blogspot.com/2025/11/python-is-for-everyone-join-in-psf-year.html (depth 1)
+2025-11-24 08:45:14 INFO [spider_scout] Indexed: https://pyfound.blogspot.com/2025/11/python-is-for-everyone-join-in-psf-year.html title='Python Software Foundation News: Python is for everyone: Join in the PSF year-end fundraiser & membership drive!' links_found=269
+2025-11-24 08:45:14 INFO [spider_scout] Reached max_pages limit
+2025-11-24 08:45:14 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-25 10:06:26 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=3 workers=2
+2025-11-25 10:06:28 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-25 10:06:29 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=124
+2025-11-25 10:06:31 INFO [spider_scout] Downloading: https://fosstodon.org/@ThePSF (depth 1)
+2025-11-25 10:06:33 INFO [spider_scout] Indexed: https://fosstodon.org/@ThePSF title='Python Software Foundation (@ThePSF@fosstodon.org) - Fosstodon' links_found=1
+2025-11-25 10:06:33 INFO [spider_scout] Downloading: https://www.python.org/psf/get-involved/ (depth 1)
+2025-11-25 10:06:33 INFO [spider_scout] Indexed: https://www.python.org/psf/get-involved/ title='ð\x9f\x91\x8b Hey Community Members! | Python Software Foundation' links_found=122
+2025-11-25 10:06:34 INFO [spider_scout] Downloading: https://mail.python.org/mailman/listinfo/python-dev (depth 1)
+2025-11-25 10:06:36 INFO [spider_scout] Indexed: https://mail.python.org/mailman/listinfo/python-dev title='Mailman 3 \nInfo | python-dev@python.org - python.org' links_found=11
+2025-11-25 10:06:36 INFO [spider_scout] Downloading: https://www.python.org/blogs/ (depth 1)
+2025-11-25 10:06:36 INFO [spider_scout] Indexed: https://www.python.org/blogs/ title='Our Blogs | Python.org' links_found=85
+2025-11-25 10:06:36 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/education/ (depth 1)
+2025-11-25 10:06:38 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/education/ title='Education | Our Success Stories | Python.org' links_found=80
+2025-11-25 10:06:40 INFO [spider_scout] Downloading: https://www.roundup-tracker.org/ (depth 1)
+2025-11-25 10:06:42 INFO [spider_scout] Indexed: https://www.roundup-tracker.org/ title='Roundup Issue Tracker - Roundup 2.5.0 documentation' links_found=21
+2025-11-25 10:06:42 INFO [spider_scout] Downloading: https://github.com/python/cpython/issues (depth 1)
+2025-11-25 10:06:45 INFO [spider_scout] Indexed: https://github.com/python/cpython/issues title='GitHub · Where software is built' links_found=117
+2025-11-25 10:06:46 INFO [spider_scout] Downloading: https://docs.python.org/3/faq/ (depth 1)
+2025-11-25 10:06:47 INFO [spider_scout] Indexed: https://docs.python.org/3/faq/ title='Python Frequently Asked Questions — Python 3.14.0 documentation' links_found=21
+2025-11-25 10:06:47 INFO [spider_scout] Downloading: https://www.python.org/psf/conduct/ (depth 1)
+2025-11-25 10:06:51 INFO [spider_scout] Indexed: https://www.python.org/psf/conduct/ title='Python Software Foundation Code of Conduct - Python Software Foundation Policies' links_found=44
+2025-11-25 10:06:51 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/software-development/ (depth 1)
+2025-11-25 10:06:52 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/software-development/ title='Software Development | Our Success Stories | Python.org' links_found=99
+2025-11-25 10:06:52 INFO [spider_scout] Downloading: https://www.python.org/community/workshops/ (depth 1)
+2025-11-25 10:06:53 INFO [spider_scout] Indexed: https://www.python.org/community/workshops/ title='Conferences and Workshops | Python.org' links_found=81
+2025-11-25 10:06:53 INFO [spider_scout] Downloading: https://www.python.org/psf/community-stories/ (depth 1)
+2025-11-25 10:06:55 INFO [spider_scout] Indexed: https://www.python.org/psf/community-stories/ title='Community Stories | Python Software Foundation' links_found=106
+2025-11-25 10:06:55 INFO [spider_scout] Downloading: https://www.python.org/community/lists/ (depth 1)
+2025-11-25 10:06:56 INFO [spider_scout] Indexed: https://www.python.org/community/lists/ title='Mailing Lists | Python.org' links_found=100
+2025-11-25 10:06:57 INFO [spider_scout] Downloading: https://peps.python.org (depth 1)
+2025-11-25 10:06:58 INFO [spider_scout] Indexed: https://peps.python.org title='PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org' links_found=717
+2025-11-25 10:06:58 INFO [spider_scout] Reached max_pages limit
+2025-11-25 10:06:59 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-25 10:13:23 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=3 workers=2
+2025-11-25 10:13:24 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-25 10:13:25 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=124
+2025-11-25 10:13:25 INFO [spider_scout] Downloading: https://www.python.org/community/irc/ (depth 1)
+2025-11-25 10:13:26 INFO [spider_scout] Indexed: https://www.python.org/community/irc/ title='Internet Relay Chat | Python.org' links_found=78
+2025-11-25 10:13:28 INFO [spider_scout] Downloading: http://planetpython.org/ (depth 1)
+2025-11-25 10:13:33 INFO [spider_scout] Indexed: http://planetpython.org/ title='Planet Python' links_found=766
+2025-11-25 10:13:33 INFO [spider_scout] Downloading: https://www.python.org/psf/conduct/ (depth 1)
+2025-11-25 10:13:35 INFO [spider_scout] Indexed: https://www.python.org/psf/conduct/ title='Python Software Foundation Code of Conduct - Python Software Foundation Policies' links_found=44
+2025-11-25 10:13:35 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/arts/ (depth 1)
+2025-11-25 10:13:35 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/arts/ title='Arts | Our Success Stories | Python.org' links_found=77
+2025-11-25 10:13:40 INFO [spider_scout] Downloading: https://kivy.org/ (depth 1)
+2025-11-25 10:13:42 INFO [spider_scout] Indexed: https://kivy.org/ title='Kivy: Cross-platform Python Framework for GUI apps Development' links_found=20
+2025-11-25 10:13:42 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/engineering/ (depth 1)
+2025-11-25 10:13:42 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/engineering/ title='Engineering | Our Success Stories | Python.org' links_found=80
+2025-11-25 10:13:42 INFO [spider_scout] Downloading: https://www.python.org/events/python-events/2121/ (depth 1)
+2025-11-25 10:13:44 INFO [spider_scout] Indexed: https://www.python.org/events/python-events/2121/ title='PyCon Namibia 2026 | Python.org' links_found=85
+2025-11-25 10:13:44 INFO [spider_scout] Downloading: https://www.python.org/events/python-events/past/ (depth 1)
+2025-11-25 10:13:45 INFO [spider_scout] Indexed: https://www.python.org/events/python-events/past/ title='Our Events | Python.org' links_found=85
+2025-11-25 10:13:47 INFO [spider_scout] Downloading: http://docs.python.org/3/tutorial/introduction.html (depth 1)
+2025-11-25 10:13:48 INFO [spider_scout] Indexed: http://docs.python.org/3/tutorial/introduction.html title='3. An Informal Introduction to Python — Python 3.14.0 documentation' links_found=27
+2025-11-25 10:13:51 INFO [spider_scout] Downloading: https://dearpygui.readthedocs.io/en/latest/ (depth 1)
+2025-11-25 10:13:52 INFO [spider_scout] Indexed: https://dearpygui.readthedocs.io/en/latest/ title='Dear PyGui’s Documentation — Dear PyGui  documentation' links_found=43
+2025-11-25 10:13:52 INFO [spider_scout] Reached max_pages limit
+2025-11-25 10:13:53 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-25 10:51:10 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=3 workers=2
+2025-11-25 10:51:22 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-25 10:51:33 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=124
+2025-11-25 10:51:33 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/government/ (depth 1)
+2025-11-25 10:51:33 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/government/ title='Government | Our Success Stories | Python.org' links_found=80
+2025-11-25 10:51:33 INFO [spider_scout] Downloading: https://www.python.org/events/ (depth 1)
+2025-11-25 10:51:35 INFO [spider_scout] Indexed: https://www.python.org/events/ title='Our Events | Python.org' links_found=90
+2025-11-25 10:51:37 INFO [spider_scout] Downloading: https://github.com/python/cpython/issues (depth 1)
+2025-11-25 10:51:42 INFO [spider_scout] Indexed: https://github.com/python/cpython/issues title='GitHub · Where software is built' links_found=116
+2025-11-25 10:51:42 INFO [spider_scout] Downloading: https://www.python.org/psf/community-stories/ (depth 1)
+2025-11-25 10:51:43 INFO [spider_scout] Indexed: https://www.python.org/psf/community-stories/ title='Community Stories | Python Software Foundation' links_found=106
+2025-11-25 10:51:45 INFO [spider_scout] Downloading: https://www.openstack.org/ (depth 1)
+2025-11-25 10:51:46 INFO [spider_scout] Indexed: https://www.openstack.org/ title='Open Source Cloud Computing Infrastructure - OpenStack' links_found=43
+2025-11-25 10:51:48 INFO [spider_scout] Downloading: https://blog.python.org (depth 1)
+2025-11-25 10:51:50 INFO [spider_scout] Indexed: https://blog.python.org title='Python Insider' links_found=330
+2025-11-25 10:51:52 INFO [spider_scout] Downloading: https://docs.python.org/3/faq/ (depth 1)
+2025-11-25 10:51:53 INFO [spider_scout] Indexed: https://docs.python.org/3/faq/ title='Python Frequently Asked Questions — Python 3.14.0 documentation' links_found=21
+2025-11-25 10:51:53 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/education/ (depth 1)
+2025-11-25 10:51:53 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/education/ title='Education | Our Success Stories | Python.org' links_found=80
+2025-11-25 10:51:53 INFO [spider_scout] Downloading: https://www.python.org/downloads/windows/ (depth 1)
+2025-11-25 10:51:55 INFO [spider_scout] Indexed: https://www.python.org/downloads/windows/ title='Python Releases for Windows | Python.org' links_found=2316
+2025-11-25 10:51:55 INFO [spider_scout] Reached max_pages limit
+2025-11-25 10:51:55 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-25 11:06:21 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=3 workers=3
+2025-11-25 11:06:22 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-25 11:06:23 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=124
+2025-11-25 11:06:23 INFO [spider_scout] Downloading: https://www.python.org/downloads/release/python-3140/ (depth 1)
+2025-11-25 11:06:23 INFO [spider_scout] Indexed: https://www.python.org/downloads/release/python-3140/ title='Python Release Python 3.14.0 | Python.org' links_found=123
+2025-11-25 11:06:23 INFO [spider_scout] Downloading: https://www.python.org/events/python-events/2121/ (depth 1)
+2025-11-25 11:06:24 INFO [spider_scout] Indexed: https://www.python.org/events/python-events/2121/ title='PyCon Namibia 2026 | Python.org' links_found=85
+2025-11-25 11:06:24 INFO [spider_scout] Downloading: https://www.python.org/community/forums/ (depth 1)
+2025-11-25 11:06:25 INFO [spider_scout] Indexed: https://www.python.org/community/forums/ title='Forums | Python.org' links_found=81
+2025-11-25 11:06:33 INFO [spider_scout] Downloading: https://wiki.python.org/moin/PythonBooks (depth 1)
+2025-11-25 11:06:43 INFO [spider_scout] Indexed: https://wiki.python.org/moin/PythonBooks title='PythonBooks - Python Wiki' links_found=48
+2025-11-25 11:06:44 INFO [spider_scout] Downloading: https://xon.sh/ (depth 1)
+2025-11-25 11:06:45 INFO [spider_scout] Indexed: https://xon.sh/ title='The Xonsh Shell — Python-powered shell. Python shell. Python in the shell. Shell in Python. Shell and Python. Python and shell.' links_found=34
+2025-11-25 11:06:45 INFO [spider_scout] Downloading: https://www.python.org/dev/ (depth 1)
+2025-11-25 11:06:45 INFO [spider_scout] Indexed: https://www.python.org/dev/ title="Python Developer's Guide | Python.org" links_found=78
+2025-11-25 11:06:45 INFO [spider_scout] Downloading: https://www.python.org/community/workshops/ (depth 1)
+2025-11-25 11:06:46 INFO [spider_scout] Indexed: https://www.python.org/community/workshops/ title='Conferences and Workshops | Python.org' links_found=81
+2025-11-25 11:06:46 INFO [spider_scout] Downloading: https://www.python.org/about/quotes/ (depth 1)
+2025-11-25 11:06:48 INFO [spider_scout] Indexed: https://www.python.org/about/quotes/ title='Quotes about Python | Python.org' links_found=88
+2025-11-25 11:06:48 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/engineering/ (depth 1)
+2025-11-25 11:06:48 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/engineering/ title='Engineering | Our Success Stories | Python.org' links_found=80
+2025-11-25 11:06:50 INFO [spider_scout] Downloading: https://riverbankcomputing.com/software/pyqt/intro (depth 1)
+2025-11-25 11:06:51 INFO [spider_scout] Indexed: https://riverbankcomputing.com/software/pyqt/intro title='Riverbank Computing | Introduction' links_found=62
+2025-11-25 11:06:51 INFO [spider_scout] Downloading: https://wiki.python.org/moin/BeginnersGuide (depth 1)
+2025-11-25 11:06:52 INFO [spider_scout] Indexed: https://wiki.python.org/moin/BeginnersGuide title='BeginnersGuide - Python Wiki' links_found=89
+2025-11-25 11:06:52 INFO [spider_scout] Downloading: https://www.python.org/blogs/ (depth 1)
+2025-11-25 11:06:53 INFO [spider_scout] Indexed: https://www.python.org/blogs/ title='Our Blogs | Python.org' links_found=85
+2025-11-25 11:06:55 INFO [spider_scout] Downloading: https://buildbot.net/ (depth 1)
+2025-11-25 11:06:57 INFO [spider_scout] Indexed: https://buildbot.net/ title='Buildbot' links_found=24
+2025-11-25 11:06:57 INFO [spider_scout] Downloading: https://www.python.org/downloads/macos/ (depth 1)
+2025-11-25 11:06:57 INFO [spider_scout] Indexed: https://www.python.org/downloads/macos/ title='Python Releases for macOS | Python.org' links_found=832
+2025-11-25 11:06:57 INFO [spider_scout] Reached max_pages limit
+2025-11-25 11:06:57 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-25 11:20:24 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=3 workers=3
+2025-11-25 11:20:27 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-25 11:20:28 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=124
+2025-11-25 11:20:30 INFO [spider_scout] Downloading: https://xon.sh/ (depth 1)
+2025-11-25 11:20:32 INFO [spider_scout] Indexed: https://xon.sh/ title='The Xonsh Shell — Python-powered shell. Python shell. Python in the shell. Shell in Python. Shell and Python. Python and shell.' links_found=34
+2025-11-25 11:20:32 INFO [spider_scout] Downloading: https://www.python.org/events/python-events/past/ (depth 1)
+2025-11-25 11:20:32 INFO [spider_scout] Indexed: https://www.python.org/events/python-events/past/ title='Our Events | Python.org' links_found=85
+2025-11-25 11:20:32 INFO [spider_scout] Downloading: https://www.python.org/ (depth 1)
+2025-11-25 11:20:33 INFO [spider_scout] Indexed: https://www.python.org/ title='Welcome to Python.org' links_found=123
+2025-11-25 11:20:33 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/arts/ (depth 1)
+2025-11-25 11:20:34 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/arts/ title='Arts | Our Success Stories | Python.org' links_found=77
+2025-11-25 11:20:36 INFO [spider_scout] Downloading: https://docs.python.org/3/faq/ (depth 1)
+2025-11-25 11:20:37 INFO [spider_scout] Indexed: https://docs.python.org/3/faq/ title='Python Frequently Asked Questions — Python 3.14.0 documentation' links_found=21
+2025-11-25 11:20:38 INFO [spider_scout] Downloading: https://flask.palletsprojects.com/ (depth 1)
+2025-11-25 11:20:41 INFO [spider_scout] Indexed: https://flask.palletsprojects.com/ title='Welcome to Flask — Flask Documentation (3.1.x)' links_found=76
+2025-11-25 11:20:41 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/education/ (depth 1)
+2025-11-25 11:20:42 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/education/ title='Education | Our Success Stories | Python.org' links_found=80
+2025-11-25 11:20:43 INFO [spider_scout] Downloading: https://www.tornadoweb.org/ (depth 1)
+2025-11-25 11:20:51 INFO [spider_scout] Indexed: https://www.tornadoweb.org/ title='Tornado Web Server — Tornado 6.5.2 documentation' links_found=133
+2025-11-25 11:20:51 INFO [spider_scout] Downloading: https://www.python.org/psf/get-involved/ (depth 1)
+2025-11-25 11:20:51 INFO [spider_scout] Indexed: https://www.python.org/psf/get-involved/ title='ð\x9f\x91\x8b Hey Community Members! | Python Software Foundation' links_found=122
+2025-11-25 11:20:51 INFO [spider_scout] Downloading: https://docs.python.org/3/license.html (depth 1)
+2025-11-25 11:20:53 INFO [spider_scout] Indexed: https://docs.python.org/3/license.html title='History and License — Python 3.14.0 documentation' links_found=40
+2025-11-25 11:20:55 INFO [spider_scout] Downloading: https://www.web2py.com/ (depth 1)
+2025-11-25 11:20:57 INFO [spider_scout] Indexed: https://www.web2py.com/ title='' links_found=30
+2025-11-25 11:20:57 INFO [spider_scout] Downloading: https://www.python.org/downloads/source/ (depth 1)
+2025-11-25 11:20:58 INFO [spider_scout] Indexed: https://www.python.org/downloads/source/ title='Python Source Releases | Python.org' links_found=1382
+2025-11-25 11:20:58 INFO [spider_scout] Reached max_pages limit
+2025-11-25 11:20:58 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-25 11:21:22 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=4 workers=3
+2025-11-25 11:21:23 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-25 11:21:24 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=124
+2025-11-25 11:21:25 INFO [spider_scout] Downloading: https://fosstodon.org/@ThePSF (depth 1)
+2025-11-25 11:21:26 INFO [spider_scout] Indexed: https://fosstodon.org/@ThePSF title='Python Software Foundation (@ThePSF@fosstodon.org) - Fosstodon' links_found=1
+2025-11-25 11:21:26 INFO [spider_scout] Downloading: https://www.python.org/psf-landing/ (depth 1)
+2025-11-25 11:21:26 INFO [spider_scout] Indexed: https://www.python.org/psf-landing/ title='Python Software Foundation' links_found=119
+2025-11-25 11:21:28 INFO [spider_scout] Downloading: https://www.tornadoweb.org/ (depth 1)
+2025-11-25 11:21:31 INFO [spider_scout] Indexed: https://www.tornadoweb.org/ title='Tornado Web Server — Tornado 6.5.2 documentation' links_found=133
+2025-11-25 11:21:32 INFO [spider_scout] Downloading: https://github.com/python/pythondotorg/issues (depth 1)
+2025-11-25 11:21:34 INFO [spider_scout] Indexed: https://github.com/python/pythondotorg/issues title='GitHub · Where software is built' links_found=104
+2025-11-25 11:21:35 INFO [spider_scout] Downloading: https://status.python.org/ (depth 1)
+2025-11-25 11:21:36 INFO [spider_scout] Indexed: https://status.python.org/ title='Python Infrastructure Status' links_found=16
+2025-11-25 11:21:36 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/software-development/ (depth 1)
+2025-11-25 11:21:37 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/software-development/ title='Software Development | Our Success Stories | Python.org' links_found=99
+2025-11-25 11:21:37 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/scientific/ (depth 1)
+2025-11-25 11:21:38 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/scientific/ title='Scientific | Our Success Stories | Python.org' links_found=82
+2025-11-25 11:21:39 INFO [spider_scout] Downloading: https://donate.python.org/ (depth 1)
+2025-11-25 11:21:40 INFO [spider_scout] Indexed: https://donate.python.org/ title='PSF Fundraiser campaign for 2025' links_found=40
+2025-11-25 11:21:42 INFO [spider_scout] Downloading: https://pythoninsider.blogspot.com/2025/11/python-3150a2.html (depth 1)
+2025-11-25 11:21:44 INFO [spider_scout] Indexed: https://pythoninsider.blogspot.com/2025/11/python-3150a2.html title='Python Insider: Python 3.15.0 alpha 2' links_found=241
+2025-11-25 11:21:45 INFO [spider_scout] Downloading: https://scipy.org/ (depth 1)
+2025-11-25 11:21:46 INFO [spider_scout] Indexed: https://scipy.org/ title='SciPy' links_found=23
+2025-11-25 11:21:47 INFO [spider_scout] Downloading: https://xon.sh/ (depth 1)
+2025-11-25 11:21:48 INFO [spider_scout] Indexed: https://xon.sh/ title='The Xonsh Shell — Python-powered shell. Python shell. Python in the shell. Shell in Python. Shell and Python. Python and shell.' links_found=34
+2025-11-25 11:21:48 INFO [spider_scout] Downloading: https://www.python.org/dev/core-mentorship/ (depth 1)
+2025-11-25 11:21:48 INFO [spider_scout] Indexed: https://www.python.org/dev/core-mentorship/ title='Python Core Mentorship | Python.org' links_found=83
+2025-11-25 11:21:50 INFO [spider_scout] Downloading: https://translations.python.org/ (depth 1)
+2025-11-25 11:21:51 INFO [spider_scout] Indexed: https://translations.python.org/ title='Python Docs Translation Dashboard' links_found=38
+2025-11-25 11:21:53 INFO [spider_scout] Downloading: https://policies.python.org/python.org/Privacy-Notice/ (depth 1)
+2025-11-25 11:21:54 INFO [spider_scout] Indexed: https://policies.python.org/python.org/Privacy-Notice/ title='Privacy Notice - Python Software Foundation Policies' links_found=33
+2025-11-25 11:21:54 INFO [spider_scout] Downloading: https://www.python.org/dev/security/ (depth 1)
+2025-11-25 11:21:54 INFO [spider_scout] Indexed: https://www.python.org/dev/security/ title='Python Security | Python.org' links_found=82
+2025-11-25 11:21:54 INFO [spider_scout] Downloading: https://www.python.org/events/python-events/past/ (depth 1)
+2025-11-25 11:21:55 INFO [spider_scout] Indexed: https://www.python.org/events/python-events/past/ title='Our Events | Python.org' links_found=85
+2025-11-25 11:21:55 INFO [spider_scout] Downloading: https://www.python.org/shell/ (depth 1)
+2025-11-25 11:21:56 INFO [spider_scout] Indexed: https://www.python.org/shell/ title='Welcome to Python.org' links_found=119
+2025-11-25 11:21:59 INFO [spider_scout] Downloading: https://pyfound.blogspot.com/2025/11/python-is-for-everyone-join-in-psf-year.html (depth 1)
+2025-11-25 11:22:02 INFO [spider_scout] Indexed: https://pyfound.blogspot.com/2025/11/python-is-for-everyone-join-in-psf-year.html title='Python Software Foundation News: Python is for everyone: Join in the PSF year-end fundraiser & membership drive!' links_found=270
+2025-11-25 11:22:02 INFO [spider_scout] Reached max_pages limit
+2025-11-25 11:22:03 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-25 11:43:31 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=4 workers=3
+2025-11-25 11:43:32 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-25 11:43:33 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=124
+2025-11-25 11:43:36 INFO [spider_scout] Downloading: https://buildbot.net/ (depth 1)
+2025-11-25 11:43:38 INFO [spider_scout] Indexed: https://buildbot.net/ title='Buildbot' links_found=24
+2025-11-25 11:43:38 INFO [spider_scout] Downloading: https://www.python.org/community/sigs/ (depth 1)
+2025-11-25 11:43:38 INFO [spider_scout] Indexed: https://www.python.org/community/sigs/ title='Python Special Interest Groups | Python.org' links_found=134
+2025-11-25 11:43:38 INFO [spider_scout] Downloading: https://www.python.org/events/python-user-group/ (depth 1)
+2025-11-25 11:43:40 INFO [spider_scout] Indexed: https://www.python.org/events/python-user-group/ title='Our Events | Python.org' links_found=82
+2025-11-25 11:43:40 INFO [spider_scout] Downloading: https://www.python.org/about/apps/ (depth 1)
+2025-11-25 11:43:40 INFO [spider_scout] Indexed: https://www.python.org/about/apps/ title='Applications for Python | Python.org' links_found=118
+2025-11-25 11:43:40 INFO [spider_scout] Downloading: https://www.python.org/psf/get-involved/ (depth 1)
+2025-11-25 11:43:41 INFO [spider_scout] Indexed: https://www.python.org/psf/get-involved/ title='ð\x9f\x91\x8b Hey Community Members! | Python Software Foundation' links_found=122
+2025-11-25 11:43:41 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/business/ (depth 1)
+2025-11-25 11:43:42 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/business/ title='Business | Our Success Stories | Python.org' links_found=92
+2025-11-25 11:43:42 INFO [spider_scout] Downloading: https://www.python.org/about/quotes/ (depth 1)
+2025-11-25 11:43:43 INFO [spider_scout] Indexed: https://www.python.org/about/quotes/ title='Quotes about Python | Python.org' links_found=88
+2025-11-25 11:43:43 INFO [spider_scout] Downloading: https://www.python.org/about/help/ (depth 1)
+2025-11-25 11:43:44 INFO [spider_scout] Indexed: https://www.python.org/about/help/ title='Help | Python.org' links_found=90
+2025-11-25 11:43:47 INFO [spider_scout] Downloading: https://pythoninsider.blogspot.com/2025/11/python-3150a2.html (depth 1)
+2025-11-25 11:43:50 INFO [spider_scout] Indexed: https://pythoninsider.blogspot.com/2025/11/python-3150a2.html title='Python Insider: Python 3.15.0 alpha 2' links_found=241
+2025-11-25 11:43:50 INFO [spider_scout] Downloading: https://www.python.org/dev/core-mentorship/ (depth 1)
+2025-11-25 11:43:51 INFO [spider_scout] Indexed: https://www.python.org/dev/core-mentorship/ title='Python Core Mentorship | Python.org' links_found=83
+2025-11-25 11:43:51 INFO [spider_scout] Downloading: https://www.python.org/psf/ (depth 1)
+2025-11-25 11:43:52 INFO [spider_scout] Indexed: https://www.python.org/psf/ title='Python Software Foundation' links_found=119
+2025-11-25 11:43:54 INFO [spider_scout] Downloading: https://docs.python.org (depth 1)
+2025-11-25 11:43:55 INFO [spider_scout] Indexed: https://docs.python.org title='3.14.0 Documentation' links_found=52
+2025-11-25 11:43:55 INFO [spider_scout] Downloading: https://www.python.org/psf/community-stories/ (depth 1)
+2025-11-25 11:43:55 INFO [spider_scout] Indexed: https://www.python.org/psf/community-stories/ title='Community Stories | Python Software Foundation' links_found=106
+2025-11-25 11:43:55 INFO [spider_scout] Downloading: https://www.python.org/events/python-user-group/2103/ (depth 1)
+2025-11-25 11:43:57 INFO [spider_scout] Indexed: https://www.python.org/events/python-user-group/2103/ title='Python Meeting Düsseldorf | Python.org' links_found=106
+2025-11-25 11:43:57 INFO [spider_scout] Downloading: https://www.python.org/about/legal/ (depth 1)
+2025-11-25 11:43:57 INFO [spider_scout] Indexed: https://www.python.org/about/legal/ title='Legal Statements | Python Software Foundation' links_found=108
+2025-11-25 11:43:57 INFO [spider_scout] Downloading: https://www.python.org/events/python-user-group/past/ (depth 1)
+2025-11-25 11:43:59 INFO [spider_scout] Indexed: https://www.python.org/events/python-user-group/past/ title='Our Events | Python.org' links_found=85
+2025-11-25 11:43:59 INFO [spider_scout] Downloading: https://www.python.org/community/awards (depth 1)
+2025-11-25 11:44:00 INFO [spider_scout] Indexed: https://www.python.org/community/awards title='Python Community Awards | Python Software Foundation' links_found=107
+2025-11-25 11:44:02 INFO [spider_scout] Downloading: https://riverbankcomputing.com/software/pyqt/intro (depth 1)
+2025-11-25 11:44:04 INFO [spider_scout] Indexed: https://riverbankcomputing.com/software/pyqt/intro title='Riverbank Computing | Introduction' links_found=62
+2025-11-25 11:44:04 INFO [spider_scout] Downloading: https://www.python.org/download/alternatives (depth 1)
+2025-11-25 11:44:05 INFO [spider_scout] Indexed: https://www.python.org/download/alternatives title='Alternative Python implementations | Python.org' links_found=93
+2025-11-25 11:44:05 INFO [spider_scout] Downloading: https://www.python.org/dev/ (depth 1)
+2025-11-25 11:44:05 INFO [spider_scout] Indexed: https://www.python.org/dev/ title="Python Developer's Guide | Python.org" links_found=78
+2025-11-25 11:44:05 INFO [spider_scout] Downloading: https://www.python.org/community/ (depth 1)
+2025-11-25 11:44:06 INFO [spider_scout] Indexed: https://www.python.org/community/ title='Our Community | Python.org' links_found=86
+2025-11-25 11:44:11 INFO [spider_scout] Downloading: http://pyfound.blogspot.com/ (depth 1)
+2025-11-25 11:44:16 INFO [spider_scout] Indexed: http://pyfound.blogspot.com/ title='Python Software Foundation News' links_found=276
+2025-11-25 11:44:16 INFO [spider_scout] Reached max_pages limit
+2025-11-25 11:44:16 INFO [spider_scout] Crawl finished. Results saved.
+2025-11-25 12:17:06 INFO [spider_scout] Starting crawl seed=https://www.python.org max_depth=4 workers=3
+2025-11-25 12:17:06 INFO [spider_scout] Downloading: https://www.python.org (depth 0)
+2025-11-25 12:17:07 INFO [spider_scout] Indexed: https://www.python.org title='Welcome to Python.org' links_found=124
+2025-11-25 12:17:09 INFO [spider_scout] Downloading: https://wiki.qt.io/Qt_for_Python (depth 1)
+2025-11-25 12:17:10 INFO [spider_scout] Indexed: https://wiki.qt.io/Qt_for_Python title='Qt for Python - Qt Wiki' links_found=61
+2025-11-25 12:17:11 INFO [spider_scout] Downloading: https://www.djangoproject.com/ (depth 1)
+2025-11-25 12:17:11 INFO [spider_scout] Indexed: https://www.djangoproject.com/ title='The web framework for perfectionists with deadlines | Django' links_found=43
+2025-11-25 12:17:11 INFO [spider_scout] Downloading: https://www.python.org/dev/core-mentorship/ (depth 1)
+2025-11-25 12:17:12 INFO [spider_scout] Indexed: https://www.python.org/dev/core-mentorship/ title='Python Core Mentorship | Python.org' links_found=83
+2025-11-25 12:17:13 INFO [spider_scout] Downloading: https://devguide.python.org/ (depth 1)
+2025-11-25 12:17:14 INFO [spider_scout] Indexed: https://devguide.python.org/ title='Python Developer’s Guide' links_found=147
+2025-11-25 12:17:14 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/arts/ (depth 1)
+2025-11-25 12:17:14 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/arts/ title='Arts | Our Success Stories | Python.org' links_found=77
+2025-11-25 12:17:14 INFO [spider_scout] Downloading: https://www.python.org/downloads/android/ (depth 1)
+2025-11-25 12:17:15 INFO [spider_scout] Indexed: https://www.python.org/downloads/android/ title='Python Releases for Android | Python.org' links_found=88
+2025-11-25 12:17:15 INFO [spider_scout] Downloading: https://www.python.org/community/diversity/ (depth 1)
+2025-11-25 12:17:16 INFO [spider_scout] Indexed: https://www.python.org/community/diversity/ title='Diversity | Python.org' links_found=76
+2025-11-25 12:17:16 INFO [spider_scout] Downloading: https://www.python.org/shell/ (depth 1)
+2025-11-25 12:17:17 INFO [spider_scout] Indexed: https://www.python.org/shell/ title='Welcome to Python.org' links_found=119
+2025-11-25 12:17:17 INFO [spider_scout] Downloading: https://www.python.org/community/forums/ (depth 1)
+2025-11-25 12:17:18 INFO [spider_scout] Indexed: https://www.python.org/community/forums/ title='Forums | Python.org' links_found=81
+2025-11-25 12:17:18 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/business/ (depth 1)
+2025-11-25 12:17:19 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/business/ title='Business | Our Success Stories | Python.org' links_found=92
+2025-11-25 12:17:19 INFO [spider_scout] Downloading: https://www.python.org/success-stories/category/software-development/ (depth 1)
+2025-11-25 12:17:20 INFO [spider_scout] Indexed: https://www.python.org/success-stories/category/software-development/ title='Software Development | Our Success Stories | Python.org' links_found=99
+2025-11-25 12:17:21 INFO [spider_scout] Downloading: https://lp.jetbrains.com/support-python/ (depth 1)
+2025-11-25 12:17:22 INFO [spider_scout] Indexed: https://lp.jetbrains.com/support-python/ title='Support Python With JetBrains' links_found=19
+2025-11-25 12:17:22 INFO [spider_scout] Downloading: https://www.python.org/about/apps/ (depth 1)
+2025-11-25 12:17:22 INFO [spider_scout] Indexed: https://www.python.org/about/apps/ title='Applications for Python | Python.org' links_found=118
+2025-11-25 12:17:22 INFO [spider_scout] Downloading: https://www.python.org/downloads/macos/ (depth 1)
+2025-11-25 12:17:23 INFO [spider_scout] Indexed: https://www.python.org/downloads/macos/ title='Python Releases for macOS | Python.org' links_found=832
+2025-11-25 12:17:23 INFO [spider_scout] Reached max_pages limit
+2025-11-25 12:17:24 INFO [spider_scout] Crawl finished. Results saved.
